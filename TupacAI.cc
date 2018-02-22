@@ -20,6 +20,7 @@ struct PLAYER_NAME : public Player
     return new PLAYER_NAME;
   }
 
+
   //VARIABLES GLOBALES
 
   typedef vector<int> VI;
